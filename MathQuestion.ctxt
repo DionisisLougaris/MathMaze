@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MathQuestion
+comment1.params=
+comment1.target=MathQuestion()
+comment2.params=
+comment2.target=void\ chooseNewQuestion()
+comment3.params=
+comment3.target=void\ askQuestion()
+numComments=4
