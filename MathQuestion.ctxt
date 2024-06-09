@@ -2,8 +2,10 @@
 comment0.target=MathQuestion
 comment1.params=
 comment1.target=MathQuestion()
-comment2.params=
-comment2.target=void\ chooseNewQuestion()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
 comment3.params=
-comment3.target=void\ askQuestion()
-numComments=4
+comment3.target=void\ chooseNewQuestion()
+comment4.params=
+comment4.target=void\ askQuestion()
+numComments=5

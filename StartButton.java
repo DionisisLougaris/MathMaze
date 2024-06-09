@@ -1,4 +1,4 @@
-import greenfoot.*;  // imports Actor, Greenfoot, GreenfootImage
+import greenfoot.*;  
 
 public class StartButton extends Actor {
     public StartButton() {

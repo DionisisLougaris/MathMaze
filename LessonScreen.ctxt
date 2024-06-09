@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LessonScreen
+comment1.params=x\ y\ lessonText
+comment1.target=LessonScreen(int,\ int,\ java.lang.String)
+comment2.params=lessonText
+comment2.target=void\ showLessonText(java.lang.String)
+numComments=3
